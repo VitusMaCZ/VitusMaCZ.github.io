@@ -13,7 +13,7 @@ Chengzhi Ma received the B.Eng. degree in 2020 in computer science from Xiamen U
     
 # Contact
 
-**Email:** yc07499@um.edu.mo/vitusma98
+**Email:** yc07499@um.edu.mo/ vitusrma98@gmail.com
 
 **Address:** Room 5004, Building N21, University of Macau, Avendia da Universidade, Taipa, Macao SAR, China
  
