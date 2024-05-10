@@ -12,7 +12,7 @@ title                    : "Chengzhi Ma"
 title_separator          : "-"
 name                     : &name "Chengzhi Ma"
 description              : &description "personal description"
-url                      : "https://https://vitusmacz.github.io"
+url                      : "https://vitusmacz.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
