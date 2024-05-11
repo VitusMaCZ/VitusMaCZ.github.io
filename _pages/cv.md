@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, [University of Macau](https://www.um.edu.mo/), Macao SAR, China.
+
+You can find my Curriculum Vitae here: [ChengzhiMa_CV](../assets/ChengzhiMa_CV.pdf)
+Here is my resume. 
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
