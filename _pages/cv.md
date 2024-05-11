@@ -11,58 +11,35 @@ redirect_from:
 
 I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, [University of Macau](https://www.um.edu.mo/), Macao SAR, China.
 
-You can find my Curriculum Vitae here: [ChengzhiMa_CV](../assets/ChengzhiMa_CV.pdf)
+You can find my Curriculum Vitae here: [ChengzhiMa_CV](../files/ChengzhiMa_CV.pdf)
+
+
+Research Interest
+======
+* Physical Layer Transmission Technologies
+  Massive multiple-input multiple-out (Massive MIMO), wireless power transfer (WPT), mmWave Communication, metasurface-aided communication: reconfigurable intelligent surface (RIS), reconfigurable distributed antenna and reflecting surface (RDARS)
+
+* Algorithm Design
+  transceiver design
+
+* Performance Analysis
+  achievable rate analysis
+
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Aug. 2020 - present:** Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)
+* **Aug. 2016 - Jun. 2020:** Bachelor of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/main.htm)
 
-Work experience
+Faculty Service
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Aug. 2020 - Jun. 2021:** Teaching Assistant for Undergraduate Courses, "Principles of Communication Systems"
+  
+Academic Services
+======
+* **Journal Reviewer**
+  * IEEE Transactions on Wireless Communications (TWC)
+* **Conference Reviewer**
+  * IEEE Vehicular Technology Conference (VTC)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
