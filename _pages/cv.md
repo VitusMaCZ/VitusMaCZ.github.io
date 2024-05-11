@@ -13,6 +13,11 @@ I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.e
 
 You can find my Curriculum Vitae here: [ChengzhiMa_CV](../files/ChengzhiMa_CV.pdf)
 
+Education
+======
+* **Aug. 2020 - present:** Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)
+* **Aug. 2016 - Jun. 2020:** Bachelor of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/main.htm)
+
 
 Research Interest
 ======
@@ -25,21 +30,16 @@ Research Interest
 * Performance Analysis
   achievable rate analysis
 
-
-Education
-======
-* **Aug. 2020 - present:** Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)
-* **Aug. 2016 - Jun. 2020:** Bachelor of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/main.htm)
-
-Faculty Service
-======
-* **Aug. 2020 - Jun. 2021:** Teaching Assistant for Undergraduate Courses, "Principles of Communication Systems"
-  
 Academic Services
 ======
 * **Journal Reviewer**
   * IEEE Transactions on Wireless Communications (TWC)
 * **Conference Reviewer**
   * IEEE Vehicular Technology Conference (VTC)
+
+Faculty Service
+======
+* **Aug. 2020 - Jun. 2021:** Teaching Assistant for Undergraduate Courses, "Principles of Communication Systems"
+  
 
 
