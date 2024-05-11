@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,6 @@ redirect_from:
 I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, [University of Macau](https://www.um.edu.mo/), Macao SAR, China.
 
 You can find my Curriculum Vitae here: [ChengzhiMa_CV](../assets/ChengzhiMa_CV.pdf)
-Here is my resume. 
 
 Education
 ======
