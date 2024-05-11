@@ -22,13 +22,13 @@ Education
 Research Interest
 ======
 * Physical Layer Transmission Technologies
-  **Massive multiple-input multiple-out (Massive MIMO), wireless power transfer (WPT), mmWave Communication, metasurface-aided communication: reconfigurable intelligent surface (RIS), reconfigurable distributed antenna and reflecting surface (RDARS)
+  *Massive multiple-input multiple-out (Massive MIMO), wireless power transfer (WPT), mmWave Communication, metasurface-aided communication: reconfigurable intelligent surface (RIS), reconfigurable distributed antenna and reflecting surface (RDARS)
 
 * Algorithm Design
-  **transceiver design
+  *transceiver design
 
 * Performance Analysis
-  **achievable rate analysis
+  *achievable rate analysis
 
 Academic Services
 ======
