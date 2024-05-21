@@ -39,8 +39,8 @@ Academic Services
 
 Professional Experience
 ======
-* **Oct. 2020 - Jul. 2022:** **Teaching Assistant**, Department of Electrical and Computer Engineering, University of Macau. Assist in teaching Undergraduate Courses, "Principles of Communication Systems"
 * **Jul. 2023 - present:** **Research Assistant**, School of Intelligent Systems Science and Engineering, Jinan University
+* **Oct. 2020 - Jul. 2022:** **Teaching Assistant**, Department of Electrical and Computer Engineering, University of Macau. Assist in teaching Undergraduate Courses, "Principles of Communication Systems"
   
 
 
