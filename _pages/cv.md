@@ -37,9 +37,10 @@ Academic Services
 * **Conference Reviewer**
   * IEEE Vehicular Technology Conference (VTC)
 
-Faculty Service
+Professional Experience
 ======
-* **Aug. 2020 - Jun. 2021:** Teaching Assistant (TA) for Undergraduate Courses, "Principles of Communication Systems"
+* **Aug. 2022 - Jun. 2021:** **Teaching Assistant** (TA), Department of Electrical and Computer Engineering, University of Macau. Assist in teaching Undergraduate Courses, "Principles of Communication Systems"
+* **Jul. 2023 - present:** **Research Assistant** (RA), School of Intelligent Systems Science and Engineering, Jinan University.
   
 
 
