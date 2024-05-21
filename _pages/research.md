@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 
+Research Projects
+======
+  * **AI-Driven Intelligent 6G Wireless Communications: Theory and Technology**
+     * *Student Investigator*, in charge of the design of vision-aided beem steering prototype realization.
+     * Funded by National Natural Science Foundation of China (NSFC) and the Macao Science and Technology Development Fund (FDCT) under Grant 0087/2022/AFJ.
+
+   * **Analysis and Optimal Design of Reconfigurable Distributed Antennas and Reflecting Surface (RDARS) for 6G**
+     * *Student Investigator*, in charge of verifying the performance of the RDARS-aided system with both theoretical analysis and experimental results.
+     * Funded by The University of Macau under Grant MYRG-GRG2023-00116-FST-UMDF.
+
 Research Topics
 ======
   * **Topic 1: RDARS empowered wireless communication system**
@@ -22,12 +32,3 @@ the benefit brought by large scale antenna arrays, massive multiple-input-multip
        * Related papers: [[1]](https://ieeexplore.ieee.org/document/9840903)
       
 
-Research Projects
-======
-  * **AI-Driven Intelligent 6G Wireless Communications: Theory and Technology**
-     * *Student Investigator*, in charge of the design of vision-aided beem steering prototype realization.
-     * Funded by National Natural Science Foundation of China (NSFC) and the Macao Science and Technology Development Fund (FDCT) under Grant 0087/2022/AFJ.
-
-   * **Analysis and Optimal Design of Reconfigurable Distributed Antennas and Reflecting Surface (RDARS) for 6G**
-     * *Student Investigator*, in charge of verifying the performance of the RDARS-aided system with both theoretical analysis and experimental results.
-     * Funded by The University of Macau under Grant MYRG-GRG2023-00116-FST-UMDF.
