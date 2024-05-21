@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, [University of Macau](https://www.um.edu.mo/), Macao SAR, China. My supervisor is Prof. [Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) 
+I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, [University of Macau](https://www.um.edu.mo/), Macao SAR, China. My supervisor is Prof. [Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/)(SMIEEE, Associate Director of SKL-IOTSC).
 
 You can find my Curriculum Vitae here: [ChengzhiMa_CV](../files/ChengzhiMa_CV.pdf)
 
