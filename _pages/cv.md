@@ -24,11 +24,11 @@ Research Interest
 * Physical Layer Transmission Technologies
   * Massive multiple-input multiple-out (Massive MIMO), wireless power transfer (WPT), mmWave Communication, metasurface-aided communication: reconfigurable intelligent surface (RIS), reconfigurable distributed antenna and reflecting surface (RDARS)
 
-* Algorithm Design
-  * transceiver design
+* Algorithm Design & Optimization
+  * Transceiver Design, Beamforming Design, Prototype Platform Building, etc
 
 * Performance Analysis
-  * achievable rate analysis
+  * achievable rate, outage probability
 
 Academic Services
 ======
@@ -39,7 +39,7 @@ Academic Services
 
 Faculty Service
 ======
-* **Aug. 2020 - Jun. 2021:** Teaching Assistant for Undergraduate Courses, "Principles of Communication Systems"
+* **Aug. 2020 - Jun. 2021:** Teaching Assistant (TA) for Undergraduate Courses, "Principles of Communication Systems"
   
 
 
