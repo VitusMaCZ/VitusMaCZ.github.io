@@ -18,6 +18,11 @@ Education
 * **Aug. 2020 - present:** Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)
 * **Aug. 2016 - Jun. 2020:** Bachelor of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/main.htm)
 
+Professional Experience
+======
+* **Jul. 2023 - present:** **Research Assistant**, School of Intelligent Systems Science and Engineering, Jinan University
+* **Oct. 2020 - Jul. 2022:** **Teaching Assistant**, Department of Electrical and Computer Engineering, University of Macau. Assist in teaching Undergraduate Courses, "Principles of Communication Systems"
+
 
 Research Interest
 ======
@@ -37,10 +42,7 @@ Academic Services
 * **Conference Reviewer**
   * IEEE Vehicular Technology Conference (VTC)
 
-Professional Experience
-======
-* **Jul. 2023 - present:** **Research Assistant**, School of Intelligent Systems Science and Engineering, Jinan University
-* **Oct. 2020 - Jul. 2022:** **Teaching Assistant**, Department of Electrical and Computer Engineering, University of Macau. Assist in teaching Undergraduate Courses, "Principles of Communication Systems"
+
   
 
 
