@@ -33,7 +33,7 @@ Research Interest
   * Transceiver Design, Beamforming Design, Prototype Platform Building, etc
 
 * Performance Analysis
-  * achievable rate, outage probability
+
 
 Academic Services
 ======
