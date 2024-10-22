@@ -15,7 +15,7 @@ Journal Papers
 
 Conference Papers
 ======
-  * Jintao Wang, **Chengzhi Ma**, Shaodan Ma, "Optimal Design of RDARS-aided Multi-user Systems with Low-resolution DACs," submitted to **the 25th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2024)**.
+  * Jintao Wang, **Chengzhi Ma**, Shaodan Ma, "Optimal Design of RDARS-aided Multi-user Systems with Low-resolution DACs," submitted to **the 25th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2024)**. [Paper](https://ieeexplore.ieee.org/document/10694127)
 
 Patents
 ======
