@@ -39,6 +39,7 @@ Academic Services
 ======
 * **Journal Reviewer**
   * IEEE Transactions on Wireless Communications (TWC)
+  * IEEE Transactions on Communications (TCOM)
 * **Conference Reviewer**
   * IEEE Vehicular Technology Conference (VTC)
 
