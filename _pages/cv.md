@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, [University of Macau](https://www.um.edu.mo/), Macao SAR, China. My supervisor is Prof. [Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/)(SMIEEE, Associate Director of SKL-IOTSC).
+
+I received the Ph.D. degree in Electrical and Computer Engineering (ECE) with the State Key Laboratory of Internet of Things for Smart City ([SKL-IOTSC](https://skliotsc.um.edu.mo/)), from [University of Macau](https://www.um.edu.mo/), Macau, China. My supervisor is Prof. [Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/)(SMIEEE, Associate Director of SKL-IOTSC).
 
 You can find my Curriculum Vitae here: [ChengzhiMa_CV](../files/ChengzhiMa_CV.pdf)
 
 Education
 ======
-* **Aug. 2020 - present:** Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)
+* **Aug. 2020 - Aug. 2025:** Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)
 * **Aug. 2016 - Jun. 2020:** Bachelor of Computer Science and Technology, [Xiamen University](https://en.xmu.edu.cn/main.htm)
 
 Professional Experience
