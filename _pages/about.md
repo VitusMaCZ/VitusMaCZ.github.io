@@ -7,7 +7,7 @@ redirect_from:
   - /about/
 ---
 
-Chengzhi Ma received the B.Eng. degree in 2020 in Computer Science and Technology from Xiamen University, Xiamen, China. He is currently pursuing the Ph.D. degree with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and the Department of Electrical and Computer Engineering (ECE), University of Macau, Macau, China. His main research interests aim for the physical layer transmission technology for next-generation wireless communications, including massive MIMO, reconfigurable distributed antenna and reflecting surface (RDARS), reconfigurable intelligent surface (RIS), mmWave communication, transceiver design, convex optimization, and wireless communication prototype.
+Chengzhi Ma received the Ph.D. degree in 2025 in Electrical and Computer Engineering (ECE) with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), from University of Macau, Macau, China. He previously received the B.Eng. degree in 2020 in Computer Science and Technology from Xiamen University, Xiamen, China. His main research interests aim for the physical layer transmission technology for next-generation wireless communications, including massive MIMO, reconfigurable distributed antenna and reflecting surface (RDARS), reconfigurable intelligent surface (RIS), mmWave communication, transceiver design, convex optimization, and wireless communication prototype.
 
     
 # Contact
