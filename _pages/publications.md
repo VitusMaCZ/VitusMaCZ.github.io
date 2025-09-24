@@ -19,5 +19,5 @@ Conference Papers
 
 Patents
 ======
-  * Shaodan Ma, Xi Yang, **Chengzhi Ma**, Binggui Zhou, Jintao Wang. "A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System", Chinese Patent Application, Feb. 2023.
+  * Shaodan Ma, Xi Yang, **Chengzhi Ma**, Binggui Zhou, Jintao Wang. "A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System", Chinese Patent Application, Feb. 2023. **(ZL202310107994.6, CN116056118B)**
   * Shaodan Ma, Xi Yang, Jintao Wang, **Chengzhi Ma**, Binggui Zhou. "A Enhanced Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System", Chinese Patent Application, Aug. 2024.
