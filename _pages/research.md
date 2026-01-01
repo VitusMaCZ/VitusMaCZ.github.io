@@ -8,7 +8,7 @@ author_profile: true
 
 Research Projects
 ======
-  * **AI-Driven Intelligent 6G Wireless Communications: Theory and Technology**
+  * **Intelligent 6G Wireless Communications: Theory and Technology**
      * *Student Investigator*, in charge of the design of vision-aided beem steering prototype realization.
      * Funded by National Natural Science Foundation of China (NSFC) and the Macao Science and Technology Development Fund (FDCT) under Grant 0087/2022/AFJ.
 
