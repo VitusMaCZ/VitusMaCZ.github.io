@@ -23,7 +23,7 @@ Research Topics
                             ![RDARS_Architecture](/files/RDARS_Architecture.png "RDARS")
                             ![Scenario](/files/Scenario.png "Scenario")
                             ![Simulation](/files/N_RDARS.png "N_RDARS")
-       * Related papers: [[1]](https://ieeexplore.ieee.org/abstract/document/10530348), [[2]](https://ieeexplore.ieee.org/abstract/document/10729705), [[3]](https://ieeexplore.ieee.org/abstract/document/10705003), [[4]](https://ieeexplore.ieee.org/document/10938954), [[5]](https://ieeexplore.ieee.org/document/11004011)
+       * Related papers: [[1]](https://ieeexplore.ieee.org/abstract/document/10530348), [[2]](https://ieeexplore.ieee.org/abstract/document/10729705), [[3]](https://ieeexplore.ieee.org/abstract/document/10705003), [[4]](https://ieeexplore.ieee.org/document/10938954), [[5]](https://ieeexplore.ieee.org/document/11004011), [[6]](https://ieeexplore.ieee.org/document/11271122), [[7]](https://ieeexplore.ieee.org/document/11161670), [[8]](https://ieeexplore.ieee.org/document/11282947)
 
 * **Topic 2: Massive MIMO empowered wireless powered sensor networks**
      * Description: Wireless energy transfer (WET) has been anticipated as a viable solution to combat the challenges of scarce energy supply in Internet-of-Things (IoT) applications. To reap
